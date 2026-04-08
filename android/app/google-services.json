@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "23923915642",
+    "project_id": "cw03-bee8b",
+    "storage_bucket": "cw03-bee8b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:23923915642:android:7e50cdfb5671da7e6574c3",
+        "android_client_info": {
+          "package_name": "com.example.cw03"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3h6SSDCX5i7zvn8Ek8vNk-mYuYgO785E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
